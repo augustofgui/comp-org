@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "endereco.h": "c",
+        "mmu.h": "c",
+        "maquina.h": "c",
+        "memoria.h": "c",
+        "stdlib.h": "c"
+    }
+}
